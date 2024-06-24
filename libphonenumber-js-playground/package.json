@@ -1,0 +1,20 @@
+{
+  "name": "libphonenumber-js-playground",
+  "version": "0.0.1",
+  "description": "libphonenumber-js playground",
+  "main": "index.ts",
+  "repository": "foo.bar.com",
+  "author": "pquemener",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "index": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^20.14.8",
+    "libphonenumber-js": "^1.11.4",
+    "ts-node": "^10.9.2",
+    "tslib": "^2.6.3",
+    "typescript": "^5.5.2"
+  }
+}
